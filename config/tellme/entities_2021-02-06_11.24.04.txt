@@ -1,0 +1,198 @@
+---------------------------
+Mod name, Registry name, ID
+---------------------------
+Abnormals Core, abnormals_core:boat, 116
+Archer's Paradox, archers_paradox:blaze_arrow, 153
+Archer's Paradox, archers_paradox:challenge_arrow, 154
+Archer's Paradox, archers_paradox:diamond_arrow, 155
+Archer's Paradox, archers_paradox:displacement_arrow, 156
+Archer's Paradox, archers_paradox:ender_arrow, 157
+Archer's Paradox, archers_paradox:explosive_arrow, 158
+Archer's Paradox, archers_paradox:frost_arrow, 159
+Archer's Paradox, archers_paradox:glowstone_arrow, 160
+Archer's Paradox, archers_paradox:lightning_arrow, 161
+Archer's Paradox, archers_paradox:phantasmal_arrow, 162
+Archer's Paradox, archers_paradox:prismarine_arrow, 163
+Archer's Paradox, archers_paradox:quartz_arrow, 164
+Archer's Paradox, archers_paradox:redstone_arrow, 165
+Archer's Paradox, archers_paradox:shulker_arrow, 166
+Archer's Paradox, archers_paradox:slime_arrow, 167
+Archer's Paradox, archers_paradox:spore_arrow, 168
+Archer's Paradox, archers_paradox:training_arrow, 169
+Archer's Paradox, archers_paradox:verdant_arrow, 170
+Artifacts, artifacts:mimic, 136
+Autumnity, autumnity:snail, 178
+Champions, champions:arctic_bullet, 137
+Champions, champions:enkindling_bullet, 138
+Charm, charm:endermite_powder, 191
+Clumps, clumps:xp_orb_big, 134
+Doggy Talents 2, doggytalents:dog, 107
+Doggy Talents 2, doggytalents:dog_beam, 108
+End: Reborn, endreborn:enderman, 112
+End: Reborn, endreborn:endguard, 111
+Extra Boats, extraboats:chest_boat, 131
+Extra Boats, extraboats:furnace_boat, 132
+Extra Boats, extraboats:large_boat, 133
+Goblin Traders, goblintraders:goblin_trader, 117
+Goblin Traders, goblintraders:vein_goblin_trader, 118
+Minecraft, minecraft:area_effect_cloud, 0
+Minecraft, minecraft:armor_stand, 1
+Minecraft, minecraft:arrow, 2
+Minecraft, minecraft:bat, 3
+Minecraft, minecraft:bee, 4
+Minecraft, minecraft:blaze, 5
+Minecraft, minecraft:boat, 6
+Minecraft, minecraft:cat, 7
+Minecraft, minecraft:cave_spider, 8
+Minecraft, minecraft:chest_minecart, 43
+Minecraft, minecraft:chicken, 9
+Minecraft, minecraft:cod, 10
+Minecraft, minecraft:command_block_minecart, 44
+Minecraft, minecraft:cow, 11
+Minecraft, minecraft:creeper, 12
+Minecraft, minecraft:dolphin, 14
+Minecraft, minecraft:donkey, 13
+Minecraft, minecraft:dragon_fireball, 15
+Minecraft, minecraft:drowned, 16
+Minecraft, minecraft:egg, 79
+Minecraft, minecraft:elder_guardian, 17
+Minecraft, minecraft:end_crystal, 18
+Minecraft, minecraft:ender_dragon, 19
+Minecraft, minecraft:ender_pearl, 80
+Minecraft, minecraft:enderman, 20
+Minecraft, minecraft:endermite, 21
+Minecraft, minecraft:evoker, 23
+Minecraft, minecraft:evoker_fangs, 22
+Minecraft, minecraft:experience_bottle, 81
+Minecraft, minecraft:experience_orb, 24
+Minecraft, minecraft:eye_of_ender, 25
+Minecraft, minecraft:falling_block, 26
+Minecraft, minecraft:fireball, 37
+Minecraft, minecraft:firework_rocket, 27
+Minecraft, minecraft:fishing_bobber, 102
+Minecraft, minecraft:fox, 28
+Minecraft, minecraft:furnace_minecart, 45
+Minecraft, minecraft:ghast, 29
+Minecraft, minecraft:giant, 30
+Minecraft, minecraft:guardian, 31
+Minecraft, minecraft:hopper_minecart, 46
+Minecraft, minecraft:horse, 32
+Minecraft, minecraft:husk, 33
+Minecraft, minecraft:illusioner, 34
+Minecraft, minecraft:iron_golem, 86
+Minecraft, minecraft:item, 35
+Minecraft, minecraft:item_frame, 36
+Minecraft, minecraft:leash_knot, 38
+Minecraft, minecraft:lightning_bolt, 100
+Minecraft, minecraft:llama, 39
+Minecraft, minecraft:llama_spit, 40
+Minecraft, minecraft:magma_cube, 41
+Minecraft, minecraft:minecart, 42
+Minecraft, minecraft:mooshroom, 50
+Minecraft, minecraft:mule, 49
+Minecraft, minecraft:ocelot, 51
+Minecraft, minecraft:painting, 52
+Minecraft, minecraft:panda, 53
+Minecraft, minecraft:parrot, 54
+Minecraft, minecraft:phantom, 98
+Minecraft, minecraft:pig, 55
+Minecraft, minecraft:pillager, 88
+Minecraft, minecraft:player, 101
+Minecraft, minecraft:polar_bear, 58
+Minecraft, minecraft:potion, 82
+Minecraft, minecraft:pufferfish, 56
+Minecraft, minecraft:rabbit, 60
+Minecraft, minecraft:ravager, 99
+Minecraft, minecraft:salmon, 61
+Minecraft, minecraft:sheep, 62
+Minecraft, minecraft:shulker, 63
+Minecraft, minecraft:shulker_bullet, 64
+Minecraft, minecraft:silverfish, 65
+Minecraft, minecraft:skeleton, 66
+Minecraft, minecraft:skeleton_horse, 67
+Minecraft, minecraft:slime, 68
+Minecraft, minecraft:small_fireball, 69
+Minecraft, minecraft:snow_golem, 70
+Minecraft, minecraft:snowball, 71
+Minecraft, minecraft:spawner_minecart, 47
+Minecraft, minecraft:spectral_arrow, 72
+Minecraft, minecraft:spider, 73
+Minecraft, minecraft:squid, 74
+Minecraft, minecraft:stray, 75
+Minecraft, minecraft:tnt, 59
+Minecraft, minecraft:tnt_minecart, 48
+Minecraft, minecraft:trader_llama, 76
+Minecraft, minecraft:trident, 83
+Minecraft, minecraft:tropical_fish, 77
+Minecraft, minecraft:turtle, 78
+Minecraft, minecraft:vex, 84
+Minecraft, minecraft:villager, 85
+Minecraft, minecraft:vindicator, 87
+Minecraft, minecraft:wandering_trader, 89
+Minecraft, minecraft:witch, 90
+Minecraft, minecraft:wither, 91
+Minecraft, minecraft:wither_skeleton, 92
+Minecraft, minecraft:wither_skull, 93
+Minecraft, minecraft:wolf, 94
+Minecraft, minecraft:zombie, 95
+Minecraft, minecraft:zombie_horse, 96
+Minecraft, minecraft:zombie_pigman, 57
+Minecraft, minecraft:zombie_villager, 97
+Outvoted, outvoted:hunger, 140
+Outvoted, outvoted:inferno, 139
+Outvoted, outvoted:kraken, 141
+Potion of Bees, potionofbees:splash_potion_of_bees, 110
+Quark, quark:chest_passenger, 184
+Quark, quark:colored_frame, 188
+Quark, quark:crab, 179
+Quark, quark:foxhound, 185
+Quark, quark:frog, 181
+Quark, quark:glass_frame, 187
+Quark, quark:gravisand, 186
+Quark, quark:pickarang, 190
+Quark, quark:stoneling, 183
+Quark, quark:toretoise, 180
+Quark, quark:totem, 182
+Quark, quark:wrapped, 189
+Rough Mobs Revamped, roughmobsrevamped:husk_champion, 105
+Rough Mobs Revamped, roughmobsrevamped:skeleton_champion, 106
+Rough Mobs Revamped, roughmobsrevamped:zombie_champion, 103
+Rough Mobs Revamped, roughmobsrevamped:zombie_pigman_champion, 104
+Savage & Ravage, savageandravage:burning_banner, 176
+Savage & Ravage, savageandravage:creeper_spore_cloud, 174
+Savage & Ravage, savageandravage:creepie, 171
+Savage & Ravage, savageandravage:griefer, 173
+Savage & Ravage, savageandravage:rune_prison, 177
+Savage & Ravage, savageandravage:skeleton_villager, 172
+Savage & Ravage, savageandravage:spore_bomb, 175
+Straw Golem, strawgolem:strawgolem, 109
+Swamp Expansion, swampexpansion:slabfish, 142
+The Conjurer, conjurer_illager:bouncing_ball, 114
+The Conjurer, conjurer_illager:conjurer, 113
+The Conjurer, conjurer_illager:throwing_card, 115
+The Endergetic Expansion, endergetic:bolloom_balloon, 148
+The Endergetic Expansion, endergetic:bolloom_fruit, 145
+The Endergetic Expansion, endergetic:bolloom_knot, 149
+The Endergetic Expansion, endergetic:boof_block, 146
+The Endergetic Expansion, endergetic:booflo, 152
+The Endergetic Expansion, endergetic:booflo_adolescent, 151
+The Endergetic Expansion, endergetic:booflo_baby, 150
+The Endergetic Expansion, endergetic:poise_cluster, 144
+The Endergetic Expansion, endergetic:puff_bug, 147
+Tumbleweed, tumbleweed:tumbleweed, 135
+Upgrade Aquatic, upgrade_aquatic:box_jellyfish, 128
+Upgrade Aquatic, upgrade_aquatic:cassiopea_jellyfish, 129
+Upgrade Aquatic, upgrade_aquatic:flare, 125
+Upgrade Aquatic, upgrade_aquatic:goose, 127
+Upgrade Aquatic, upgrade_aquatic:great_thrasher, 124
+Upgrade Aquatic, upgrade_aquatic:immortal_jellyfish, 130
+Upgrade Aquatic, upgrade_aquatic:lionfish, 122
+Upgrade Aquatic, upgrade_aquatic:nautilus, 120
+Upgrade Aquatic, upgrade_aquatic:pike, 121
+Upgrade Aquatic, upgrade_aquatic:sonar_wave, 119
+Upgrade Aquatic, upgrade_aquatic:thrasher, 123
+Upgrade Aquatic, upgrade_aquatic:ululu, 126
+Waddles, waddles:adelie_penguin, 143
+---------------------------
+Mod name, Registry name, ID
+---------------------------

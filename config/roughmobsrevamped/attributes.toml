@@ -1,0 +1,16 @@
+
+[Attributes]
+	#Add attribute modifiers to entities to change their stats. Takes 4-6 values seperated by a semicolon.
+	#Format:        entity;attribute;operator;value;dimension;child
+	#entity:        entity name
+	#attribute:     attribute name (Possible attributes: generic.maxHealth, generic.followRange, generic.knockbackResistance, generic.movementSpeed, generic.flyingSpeed, generic.attackDamage, generic.attackKnockback, generic.attackSpeed, generic.armor, generic.armorToughness, generic.luck)
+	#operator:      0 = add new value to original attribute (x + y)
+	#               1 = multiply original attribute by new value and add the result to the original attribute ((x * y) + x)
+	#               2 = multiply original attribute by new value (x * y)
+	#value:         value which will be used for the calculation
+	#dimension:     dimension (ID) in which the entity should get the boost (optional! Leave this blank or use a "/" for any dimension)
+	#child:         0 or blank = adults and children
+	#               1 = adults only
+	#               2 = children only
+	Attributes = ["skeleton;generic.maxHealth;2;-0.2", "stray;generic.maxHealth;2;-0.2", "wither_skeleton;generic.maxHealth;1;0.5", "ghast;generic.followRange;0;30"]
+

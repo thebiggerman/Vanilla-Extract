@@ -1,0 +1,9 @@
+
+[softsnowfallconfig]
+	#The maximume number of snow layers that will be conisdered to negate fall damage
+	#Range: 0 ~ 2048
+	snowFall_layers = 8
+	#Multiplyer that determines the ratio between the number of layers of snow times how many blocks of fall distance they cancel out.
+	#Range: 0.0 ~ 100.0
+	snowFall_ratio = 1.0
+

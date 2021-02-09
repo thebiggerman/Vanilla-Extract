@@ -1,0 +1,10 @@
+{ 
+	"credit": "Vanilla Additions Resource Pack by JustTimm - https://twitter.com/JustTimmMT",
+	"variants":{ 
+		"":[ 
+			{"model":"block/random/lily_pad/lily_pad_0","weight":60}, 
+			{"model":"block/random/lily_pad/lily_pad_1","weight":60},
+			{"model":"block/random/lily_pad/lily_pad_2","weight":60}
+		] 
+	} 
+} 

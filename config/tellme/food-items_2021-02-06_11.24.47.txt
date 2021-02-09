@@ -1,0 +1,139 @@
+------------------------------------------------------------------------------------
+Registry name, Display name, Hunger, Saturation, Is meat, Fast to eat, Tags, Effects
+------------------------------------------------------------------------------------
+artifacts:eternal_steak, Eternal Steak, 8, 0.8, true, false, , 
+artifacts:everlasting_beef, Everlasting Beef, 3, 0.3, true, false, , 
+atmospheric:aloe_gel_bottle, Aloe Gel Bottle, 3, 0.2, false, false, , {[effect.atmospheric.gelled, Duration: 2800, Particles: false], Propability: 1.0}
+atmospheric:aloe_leaves, Aloe Leaves, 2, 0.1, false, false, , {[effect.atmospheric.gelled, Duration: 280, Particles: false], Propability: 1.0}
+atmospheric:passionfruit, Passionfruit, 3, 0.3, false, false, , {[effect.atmospheric.spitting, Duration: 140, Particles: false], Propability: 1.0}
+atmospheric:passionfruit_sorbet, Passionfruit Sorbet, 15, 0.5, false, false, , {[effect.minecraft.slowness x 5, Duration: 300, Particles: false], Propability: 1.0}
+atmospheric:passionfruit_tart, Passionfruit Tart, 4, 0.6, false, false, , 
+atmospheric:roasted_yucca_fruit, Roasted Yucca Fruit, 6, 0.5, false, false, , {[effect.atmospheric.persistence, Duration: 560, Particles: false], Propability: 1.0}
+atmospheric:shimmering_passionfruit, Shimmering Passionfruit, 5, 0.2, false, false, , {[effect.atmospheric.spitting x 2, Duration: 140, Particles: false], Propability: 1.0}
+atmospheric:yucca_fruit, Yucca Fruit, 1, 0.3, false, false, , 
+atmospheric:yucca_juice, Yucca Juice, 3, 0.7, false, false, , {[effect.atmospheric.persistence, Duration: 1080, Particles: false], Propability: 1.0}
+autumnity:foul_berries, Foul Berries, 2, 0.1, false, false, , {[effect.minecraft.hunger, Duration: 300], Propability: 0.8}
+autumnity:foul_berry_pie, Foul Berry Pie, 8, 0.3, false, false, , {[effect.minecraft.hunger, Duration: 300], Propability: 0.3}
+autumnity:syrup_bottle, Syrup Bottle, 4, 0.3, false, false, , 
+berry_good:sweet_berry_meatballs, Sweet Berry Meatballs, 10, 0.7, false, false, , 
+berry_good:sweet_berry_mince, Sweet Berry Mince, 5, 0.2, false, false, , 
+endergetic:bolloom_fruit, Bolloom Fruit, 2, 0.3, false, false, , {[effect.minecraft.levitation, Duration: 125], Propability: 1.0}
+endreborn:ogana, Ogana Fruit, 2, 0.1, false, false, , 
+farmersdelight:apple_pie_slice, Slice of Apple Pie, 3, 0.3, false, true, , {[effect.minecraft.speed, Duration: 1800], Propability: 1.0}
+farmersdelight:baked_cod_stew, Baked Cod Stew, 10, 0.9, false, false, , {[effect.farmersdelight.comfort, Duration: 4800], Propability: 1.0}
+farmersdelight:barbecue_stick, Barbecue on a Stick, 8, 0.9, false, false, , 
+farmersdelight:beef_patty, Beef Patty, 4, 0.8, true, false, forge:cooked_beef, 
+farmersdelight:beef_stew, Beef Stew, 10, 0.9, false, false, , {[effect.farmersdelight.comfort, Duration: 4800], Propability: 1.0}
+farmersdelight:cabbage, Cabbage, 2, 0.4, false, false, forge:crops, forge:crops/cabbage, forge:salad_ingredients, forge:salad_ingredients/cabbage, 
+farmersdelight:cabbage_leaf, Cabbage Leaf, 1, 0.4, false, false, forge:crops, forge:crops/cabbage, forge:salad_ingredients, forge:salad_ingredients/cabbage, 
+farmersdelight:cake_slice, Slice of Cake, 2, 0.1, false, true, , {[effect.minecraft.speed, Duration: 1200], Propability: 1.0}
+farmersdelight:chicken_cuts, Raw Chicken Cuts, 1, 0.3, true, false, farmersdelight:wolf_prey, forge:raw_chicken, {[effect.minecraft.hunger, Duration: 600], Propability: 0.3}
+farmersdelight:chicken_sandwich, Chicken Sandwich, 10, 0.8, false, false, , {[effect.minecraft.strength, Duration: 600], Propability: 1.0}
+farmersdelight:chicken_soup, Chicken Soup, 10, 0.8, false, false, , {[effect.farmersdelight.comfort, Duration: 4800], Propability: 1.0}
+farmersdelight:chocolate_pie_slice, Slice of Chocolate Pie, 3, 0.3, false, true, , {[effect.minecraft.speed, Duration: 1800], Propability: 1.0}
+farmersdelight:cod_slice, Raw Cod Slice, 1, 0.1, false, false, forge:raw_fishes, forge:raw_fishes/cod, 
+farmersdelight:cooked_chicken_cuts, Cooked Chicken Cuts, 3, 0.6, true, false, forge:cooked_chicken, 
+farmersdelight:cooked_cod_slice, Cooked Cod Slice, 3, 0.5, false, false, forge:cooked_fishes, forge:cooked_fishes/cod, 
+farmersdelight:cooked_rice, Cooked Rice, 7, 0.7, false, false, , {[effect.farmersdelight.comfort, Duration: 1200], Propability: 1.0}
+farmersdelight:cooked_salmon_slice, Cooked Salmon Slice, 3, 0.8, false, false, forge:cooked_fishes, forge:cooked_fishes/salmon, 
+farmersdelight:dog_food, Dog Food, 4, 0.2, true, false, , 
+farmersdelight:dumplings, Dumplings, 8, 0.8, false, false, , 
+farmersdelight:egg_sandwich, Egg Sandwich, 8, 0.8, false, false, , 
+farmersdelight:fish_stew, Fish Stew, 10, 0.8, false, false, , {[effect.farmersdelight.comfort, Duration: 4800], Propability: 1.0}
+farmersdelight:fried_egg, Fried Egg, 4, 0.4, false, false, forge:cooked_eggs, 
+farmersdelight:fried_rice, Fried Rice, 10, 0.8, false, false, , {[effect.farmersdelight.nourished, Duration: 4800], Propability: 1.0}
+farmersdelight:grilled_salmon, Grilled Salmon, 12, 0.9, false, false, , {[effect.farmersdelight.nourished, Duration: 9600], Propability: 1.0}
+farmersdelight:hamburger, Hamburger, 10, 0.8, false, false, , {[effect.minecraft.strength, Duration: 600], Propability: 1.0}
+farmersdelight:honey_cookie, Honey Cookie, 2, 0.1, false, true, , 
+farmersdelight:honey_glazed_ham, Honey Glazed Ham, 14, 0.9, false, false, , {[effect.farmersdelight.nourished, Duration: 9600], Propability: 1.0}, {[effect.minecraft.absorption, Duration: 1800], Propability: 1.0}
+farmersdelight:minced_beef, Minced Beef, 2, 0.3, true, false, forge:raw_beef, 
+farmersdelight:mixed_salad, Mixed Salad, 6, 0.6, false, false, , {[effect.minecraft.regeneration, Duration: 300], Propability: 1.0}
+farmersdelight:onion, Onion, 2, 0.4, false, false, forge:crops, forge:crops/onion, forge:vegetables, forge:vegetables/onion, 
+farmersdelight:pasta_with_meatballs, Pasta with Meatballs, 12, 0.9, false, false, , {[effect.farmersdelight.nourished, Duration: 9600], Propability: 1.0}
+farmersdelight:pasta_with_mutton_chop, Pasta with Mutton Chop, 12, 0.9, false, false, , {[effect.farmersdelight.nourished, Duration: 9600], Propability: 1.0}
+farmersdelight:pie_crust, Pie Crust, 2, 0.2, false, false, , 
+farmersdelight:pumpkin_slice, Pumpkin Slice, 3, 0.3, false, false, , 
+farmersdelight:pumpkin_soup, Pumpkin Soup, 10, 0.9, false, false, , {[effect.farmersdelight.comfort, Duration: 4800], Propability: 1.0}
+farmersdelight:ratatouille, Ratatouille, 9, 0.6, false, false, , {[effect.farmersdelight.nourished, Duration: 4800], Propability: 1.0}
+farmersdelight:raw_pasta, Raw Pasta, 3, 0.4, false, false, forge:pasta, forge:pasta/raw_pasta, {[effect.minecraft.hunger, Duration: 600], Propability: 0.3}
+farmersdelight:salmon_slice, Raw Salmon Slice, 1, 0.1, false, false, forge:raw_fishes, forge:raw_fishes/salmon, 
+farmersdelight:shepherds_pie, Shepherd's Pie, 14, 0.9, false, false, , {[effect.farmersdelight.nourished, Duration: 9600], Propability: 1.0}
+farmersdelight:squid_ink_pasta, Squid Ink Pasta, 14, 0.9, false, false, , {[effect.farmersdelight.nourished, Duration: 9600], Propability: 1.0}
+farmersdelight:steak_and_potatoes, Steak and Potatoes, 10, 0.8, false, false, , {[effect.farmersdelight.nourished, Duration: 4800], Propability: 1.0}
+farmersdelight:stuffed_potato, Stuffed Potato, 10, 0.7, false, false, , 
+farmersdelight:stuffed_pumpkin, Stuffed Pumpkin, 16, 0.9, false, false, , {[effect.farmersdelight.nourished, Duration: 12000], Propability: 1.0}
+farmersdelight:sweet_berry_cheesecake_slice, Slice of Sweet Berry Cheesecake, 3, 0.3, false, true, , {[effect.minecraft.speed, Duration: 1800], Propability: 1.0}
+farmersdelight:sweet_berry_cookie, Sweet Berry Cookie, 2, 0.1, false, true, , 
+farmersdelight:tomato, Tomato, 1, 0.3, false, false, forge:crops, forge:crops/tomato, forge:vegetables, forge:vegetables/tomato, 
+farmersdelight:tomato_sauce, Tomato Sauce, 2, 0.4, false, false, , 
+farmersdelight:vegetable_noodles, Vegetable Noodles, 14, 0.9, false, false, , {[effect.farmersdelight.nourished, Duration: 9600], Propability: 1.0}
+farmersdelight:vegetable_soup, Vegetable Soup, 10, 0.8, false, false, , {[effect.farmersdelight.comfort, Duration: 4800], Propability: 1.0}
+incubation:fried_egg, Fried Egg, 3, 0.6, false, false, forge:cooked_eggs, 
+incubation:scrambled_eggs, Scrambled Eggs, 6, 0.6, false, false, , 
+minecraft:apple, Apple, 4, 0.3, false, false, , 
+minecraft:baked_potato, Baked Potato, 5, 0.6, false, false, , 
+minecraft:beef, Raw Beef, 3, 0.3, true, false, forge:raw_beef, 
+minecraft:beetroot, Beetroot, 1, 0.6, false, false, forge:crops, forge:crops/beetroot, forge:vegetables, forge:vegetables/beetroot, 
+minecraft:beetroot_soup, Beetroot Soup, 6, 0.6, false, false, farmersdelight:comfort_foods, 
+minecraft:bread, Bread, 5, 0.6, false, false, forge:bread, forge:bread/wheat, 
+minecraft:carrot, Carrot, 3, 0.6, false, false, forge:crops, forge:crops/carrot, forge:vegetables, forge:vegetables/carrot, 
+minecraft:chicken, Raw Chicken, 2, 0.3, true, false, farmersdelight:wolf_prey, forge:raw_chicken, {[effect.minecraft.hunger, Duration: 600], Propability: 0.3}
+minecraft:chorus_fruit, Chorus Fruit, 4, 0.3, false, false, , 
+minecraft:cod, Raw Cod, 2, 0.1, false, false, forge:raw_fishes, forge:raw_fishes/cod, minecraft:fishes, 
+minecraft:cooked_beef, Steak, 8, 0.8, true, false, forge:cooked_beef, 
+minecraft:cooked_chicken, Cooked Chicken, 6, 0.6, true, false, forge:cooked_chicken, 
+minecraft:cooked_cod, Cooked Cod, 5, 0.6, false, false, forge:cooked_fishes, forge:cooked_fishes/cod, minecraft:fishes, 
+minecraft:cooked_mutton, Cooked Mutton, 6, 0.8, true, false, , 
+minecraft:cooked_porkchop, Cooked Porkchop, 8, 0.8, true, false, , 
+minecraft:cooked_rabbit, Cooked Rabbit, 5, 0.6, true, false, , 
+minecraft:cooked_salmon, Cooked Salmon, 6, 0.8, false, false, forge:cooked_fishes, forge:cooked_fishes/salmon, minecraft:fishes, 
+minecraft:cookie, Cookie, 2, 0.1, false, false, , 
+minecraft:dried_kelp, Dried Kelp, 1, 0.3, false, true, , 
+minecraft:enchanted_golden_apple, Enchanted Golden Apple, 4, 1.2, false, false, , {[effect.minecraft.regeneration x 2, Duration: 400], Propability: 1.0}, {[effect.minecraft.resistance, Duration: 6000], Propability: 1.0}, {[effect.minecraft.fire_resistance, Duration: 6000], Propability: 1.0}, {[effect.minecraft.absorption x 4, Duration: 2400], Propability: 1.0}
+minecraft:golden_apple, Golden Apple, 4, 1.2, false, false, , {[effect.minecraft.regeneration x 2, Duration: 100], Propability: 1.0}, {[effect.minecraft.absorption, Duration: 2400], Propability: 1.0}
+minecraft:golden_carrot, Golden Carrot, 6, 1.2, false, false, , 
+minecraft:honey_bottle, Honey Bottle, 6, 0.1, false, false, , 
+minecraft:melon_slice, Melon Slice, 2, 0.3, false, false, , 
+minecraft:mushroom_stew, Mushroom Stew, 6, 0.6, false, false, farmersdelight:comfort_foods, 
+minecraft:mutton, Raw Mutton, 2, 0.3, true, false, farmersdelight:wolf_prey, 
+minecraft:poisonous_potato, Poisonous Potato, 2, 0.3, false, false, , {[effect.minecraft.poison, Duration: 100], Propability: 0.6}
+minecraft:porkchop, Raw Porkchop, 3, 0.3, true, false, , 
+minecraft:potato, Potato, 1, 0.3, false, false, forge:crops, forge:crops/potato, forge:vegetables, forge:vegetables/potato, 
+minecraft:pufferfish, Pufferfish, 1, 0.1, false, false, minecraft:fishes, {[effect.minecraft.poison x 4, Duration: 1200], Propability: 1.0}, {[effect.minecraft.hunger x 3, Duration: 300], Propability: 1.0}, {[effect.minecraft.nausea x 2, Duration: 300], Propability: 1.0}
+minecraft:pumpkin_pie, Pumpkin Pie, 8, 0.3, false, false, , 
+minecraft:rabbit, Raw Rabbit, 3, 0.3, true, false, farmersdelight:wolf_prey, 
+minecraft:rabbit_stew, Rabbit Stew, 10, 0.6, false, false, farmersdelight:comfort_foods, 
+minecraft:rotten_flesh, Rotten Flesh, 4, 0.1, true, false, , {[effect.minecraft.hunger, Duration: 600], Propability: 0.8}
+minecraft:salmon, Raw Salmon, 2, 0.1, false, false, forge:raw_fishes, forge:raw_fishes/salmon, minecraft:fishes, 
+minecraft:spider_eye, Spider Eye, 2, 0.8, false, false, , {[effect.minecraft.poison, Duration: 100], Propability: 1.0}
+minecraft:suspicious_stew, Suspicious Stew, 6, 0.6, false, false, , 
+minecraft:sweet_berries, Sweet Berries, 2, 0.1, false, false, , 
+minecraft:tropical_fish, Tropical Fish, 1, 0.1, false, false, forge:raw_fishes, forge:raw_fishes/tropical_fish, minecraft:fishes, 
+quark:cooked_crab_leg, Cooked Crab Leg, 8, 0.8, true, false, , 
+quark:cooked_frog_leg, Cooked Frog Leg, 4, 1.25, true, false, , 
+quark:crab_leg, Crab Leg, 1, 0.3, true, false, , 
+quark:frog_leg, Frog Leg, 2, 0.3, true, false, , 
+quark:golden_frog_leg, Golden Frog Leg, 4, 2.5, true, false, , 
+quark:root_item, Cave Root, 3, 0.4, false, false, , 
+swampexpansion:cavefish_kelp_roll, Cavefish Kelp Roll, 2, 0.8, false, true, swampexpansion:sushi, 
+swampexpansion:cod_kelp_roll, Cod Kelp Roll, 3, 0.7, false, true, swampexpansion:sushi, 
+swampexpansion:crab_kelp_roll, Crab Kelp Roll, 6, 0.7, false, true, swampexpansion:sushi, 
+swampexpansion:lionfish_rice_cake, Lionfish Rice Cake, 3, 0.9, false, true, swampexpansion:sushi, {[effect.minecraft.slowness, Duration: 600], Propability: 1.0}
+swampexpansion:pike_kelp_roll, Pike Kelp Roll, 5, 0.9, false, true, swampexpansion:sushi, 
+swampexpansion:pufferfish_rice_cake, Pufferfish Rice Cake, 4, 0.3, false, true, swampexpansion:sushi, {[effect.minecraft.weakness, Duration: 600], Propability: 1.0}
+swampexpansion:rice_ball, Rice Ball, 4, 0.5, false, false, , 
+swampexpansion:salmon_rice_cake, Salmon Rice Cake, 4, 0.7, false, true, swampexpansion:sushi, 
+swampexpansion:squid_ink_risotto, Squid Ink Risotto, 8, 0.9, false, false, , 
+swampexpansion:tropical_fish_kelp_roll, Tropical Fish Kelp Roll, 4, 1.3, false, true, swampexpansion:sushi, 
+upgrade_aquatic:boiled_pickerelweed_blue, Boiled Blue Pickerelweed, 2, 0.0, false, false, , 
+upgrade_aquatic:boiled_pickerelweed_purple, Boiled Purple Pickerelweed, 3, 0.0, false, false, , 
+upgrade_aquatic:lionfish, Raw Lionfish, 2, 0.3, false, false, minecraft:fishes, {[effect.minecraft.poison x 4, Duration: 550], Propability: 1.0}, {[effect.minecraft.nausea x 3, Duration: 320], Propability: 1.0}
+upgrade_aquatic:lionfish_cooked, Cooked Lionfish, 6, 0.7, false, false, minecraft:fishes, 
+upgrade_aquatic:mulberry, Mulberry, 3, 0.1, false, false, , 
+upgrade_aquatic:mulberry_bread, Mulberry Bread, 8, 0.6, false, false, , 
+upgrade_aquatic:mulberry_jam_bottle, Mulberry Jam Bottle, 4, 0.2, false, false, , 
+upgrade_aquatic:pike, Raw Pike, 3, 0.3, false, false, minecraft:fishes, 
+upgrade_aquatic:pike_cooked, Cooked Pike, 8, 0.8, false, false, minecraft:fishes, 
+------------------------------------------------------------------------------------
+Registry name, Display name, Hunger, Saturation, Is meat, Fast to eat, Tags, Effects
+------------------------------------------------------------------------------------

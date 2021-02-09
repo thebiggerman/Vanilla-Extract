@@ -1,0 +1,4 @@
+[[itemOverrides]]
+  dropDurabilityLoss = 0.10
+  keepDurabilityLoss = 0.10
+  items = ["minecraft:stick"]

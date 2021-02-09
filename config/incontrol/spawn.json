@@ -1,0 +1,7 @@
+[
+  {
+    "mob": "Husk",
+    "biome": ["Desert", "Desert_hills", "Desert_lakes", "Savanna", "Savanna_plateau", "Shattered_savanna", "Shattered_savanna_plateau", "Sky", "Arid_highlands", "Desert_shrubland", "Badlands", "Badlands_plateau", "Modified_badlands_plateau", "Wooded_badlands_plateau", "Modified_wooded_badlands_plateau", "Eroded_badlands", "Beach", "Dunes", "Dunes_hill", "Flourishing_dunes", "Rocky_dunes", "Rocky_dunes_hills", "Rocky_dunes_edge", "Petrified_dunes"],
+    "result": "true"
+  }
+]
